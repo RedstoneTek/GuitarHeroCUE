@@ -1,0 +1,18 @@
+To make a custom song, follow this format:
+
+[Beginning of text file]
+<songpath>
+<notes>...
+[End of text file]
+
+The songpath is the path of the mp3 file relative to this file
+A note is defined like so: GREEN;RED;YELLOW;BLUE;WAITUNTILNEXT
+                  Example: 1;0;0;1;500
+				  So this would have a green note, a blue note and would wait for 500 ms until the next note
+
+Example:
+
+[Beginning of text file]
+song.mp3
+1;0;0;1;500
+[End of text file]

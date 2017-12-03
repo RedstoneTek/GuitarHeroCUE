@@ -1,0 +1,10 @@
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Release\GuitarHeroCUE.exe.config
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Release\GuitarHeroCUE.exe
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Release\GuitarHeroCUE.pdb
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Release\CUE.NET.dll
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Release\CUE.NET.xml
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Release\GuitarHeroCUE.csprojResolveAssemblyReference.cache
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Release\Interop.WMPLib.dll
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Release\GuitarHeroCUE.csproj.ResolveComReference.cache
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Release\GuitarHeroCUE.exe
+C:\Users\Julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Release\GuitarHeroCUE.pdb

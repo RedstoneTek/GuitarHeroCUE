@@ -1,0 +1,8 @@
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Debug\GuitarHeroCUE.exe.config
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Debug\GuitarHeroCUE.exe
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Debug\GuitarHeroCUE.pdb
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Debug\CUE.NET.dll
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\bin\Debug\CUE.NET.xml
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Debug\GuitarHeroCUE.csprojResolveAssemblyReference.cache
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Debug\GuitarHeroCUE.exe
+c:\users\julien\documents\visual studio 2015\Projects\GuitarHeroCUE\GuitarHeroCUE\obj\Debug\GuitarHeroCUE.pdb
